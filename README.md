@@ -7,6 +7,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
 [![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
@@ -25,8 +26,8 @@
 
 ## 🛠️ Herramientas y Tecnologías
 
-- **Frontend:** HTML, CSS, Tailwind, JavaScript, React.js, Vite.js, Astro  
-- **Backend:** Node.js, Flask, MySQL, PostgreSQL, Redis, discord.js  
+- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React.js, Vite.js, Astro  
+- **Backend:** Java, Node.js, Flask, MySQL, PostgreSQL, Redis, discord.js  
 - **DevOps / Infra:** Docker, Docker Compose, Cloudflare Tunnel, Linux (Arch, Ubuntu, Ubuntu Server)  
 
 ## 📫 Contacto
